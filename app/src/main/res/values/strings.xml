@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NavControl - Contact AppAssignment</string>
+     -->
+    <string name="bruno">brunofanandes4@gmail.com</string>
+    <string name="paugba">labilePaugba@mail.com</string>
+    <string name="ozil">mesuitozil67@gmail.com</string>
+    <string name="cr7">cristianoronaldo47@gmail.com</string>
+    <string name="greenwood">greenwoodmason@gmail.com</string>
+    <string name="phoneNumber">(650) 555–1367</string>
+    <string name="phone">(650) 555–1367</string>
+    <string name="phoneNumber1">(650) 555–1388</string>
+    <string name="phoneNumber2">(650) 555–1398</string>
+    <string name="phoneNumber3">(650) 555–1376</string>
+    <string name="phoneNumber4">(650) 555–1307</string>
+    <string name="phoneNumber5">(650) 555-3421</string>
+    <string name="phoneNumber6">(650) 555–1307</string>
+    <string name="phoneNumber7">(650) 555–6542</string>
+    <string name="phoneNumber8">(650) 555–1311</string>
+    <string name="phoneNumber9">(650) 555–1300</string>
+    <string name="phoneNumber10">(650) 555–1397</string>
+</resources>
